@@ -1,16 +1,17 @@
-## Hi there 👋
+<!-- README generated 2025-05-15 -->
 
-<!--
-**sylvnco/sylvnco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I’m Sylvain Coulomb 👋</h1>
+<h3 align="center">Senior Full-Stack Engineer · React / Next.js · Node/NestJS · .NET · Web3 · Three.js</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/sylvain-coulomb/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+  <img alt="Location" src="https://img.shields.io/badge/Remote-Available-brightgreen">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 About me
+```text
+Fullstack engineer with 10 years experience shipping web apps. 
