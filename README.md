@@ -1,5 +1,5 @@
 ### Sylvain Coulomb
-**Senior full-stack developer. Remote & async.**
+**Senior full-stack engineer. Remote & async.**
 
 A senior you don't have to manage: 10 years building and running products, clear communication, no status meetings.
 
